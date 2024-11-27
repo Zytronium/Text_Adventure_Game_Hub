@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Text Adventure Game Hub</string>
+    <string name="story_text">%s\n\nWhat will you do?</string>
+</resources>
